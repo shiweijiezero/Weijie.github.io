@@ -26,3 +26,14 @@ Moreover, I excel in feature engineering techniques. My proficiency in this area
 
 In my work on Huawei's road network matching project, I effectively managed map-matching for high-positioning cellular trajectories. My contributions led to significant improvements in matching accuracy. This project was ultimately completed successfully and implemented by a notable mobile operator. I take pride in my capability to drive projects from conception through to application.
 
+Awards
+===========
+- Tianchi Competition, 6nd place out of 617 (CAAI-BDSC2023 Social Graph Link Prediction Task 1: Small Sample Scenario Link Prediction), May 2023
+
+- Tianchi Competition, 139th out of 3493 (Imagine Computing Innovation Technology Competition Track 1: Edge Cloud Content Distribution Network Customer Experience Prediction Algorithm), November 2022
+
+- Lanqiao Cup, Jiangsu Province First Prize, August 2020
+
+- National Computer Design Competition, Second Prize, May 2020
+
+- American College Student Mathematical Modeling Competition, Meritorious Winner, March 2020
