@@ -20,9 +20,9 @@ Recently, with the booming development of **large language models (LLMs)**, we h
 
 Personal Skills
 ===========
-I understand and apply mainstream deep learning methods (Transformer, Diffusion, RL, GAN, VAE, CNN, RNN, GCN), integrated learning frameworks (XGboost, Catboost, LightGBM), and tools (Neo4j, Pytorch, Scala, Spark and Docker). I have good engineering skills and scientific research intuition. 
+I am proficient in the application and understanding of mainstream deep learning methods including but not limited to Transformer, Diffusion, RL, GAN, VAE, CNN, RNN, and GCN. I have extensive experience with integrated learning frameworks such as XGboost, Catboost, and LightGBM. I am also adept at using tools like Neo4j, Pytorch, Scala, Spark, and Docker. My engineering skills are well-honed and complemented by a strong intuition for scientific research.
 
-What'more, I also skilled of feature engineering techniques, has participated in the Tianchi competition and achieved a ranking of 6/670. 
+Moreover, I excel in feature engineering techniques. My proficiency in this area has been demonstrated through my participation in the Tianchi competition, where I secured a commendable ranking of 6 out of 670.
 
-In Huawei's road network matching project for cellular trajectories with high positioning, I achieved engineering and improved matching accuracy, and ultimately completed the project and applied it to a certain mobile operator.
+In my work on Huawei's road network matching project, I effectively managed map-matching for high-positioning cellular trajectories. My contributions led to significant improvements in matching accuracy. This project was ultimately completed successfully and implemented by a notable mobile operator. I take pride in my capability to drive projects from conception through to application.
 
