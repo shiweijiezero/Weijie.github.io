@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-Huawei - Road Network Matching Project for High-Noise Signaling Trajectories(2020.5--2020.11)
+Huawei - Road Network Matching Project for High-Noise Signaling Trajectories (2020.5--2020.11)
 ==========
 Objective: Align high-noise signaling trajectories to the road network to identify the routes traveled by users.
 
@@ -16,7 +16,7 @@ Objective: Align high-noise signaling trajectories to the road network to identi
 - Enhanced the HMM-based road network matching algorithm using machine learning techniques.
 - The finished project was successfully delivered to Huawei and has been deployed on a mobile application platform, where it now offers road network matching services.
 
-Wangjin - Big Data Query Platform(2021.1--2021.4)
+Wangjin - Big Data Query Platform (2021.1--2021.4)
 ========
 Objective: Establish a big data query framework to facilitate concurrent distributed database queries.
 
@@ -25,7 +25,7 @@ Objective: Establish a big data query framework to facilitate concurrent distrib
 - Employed Scala to build the project skeleton and wrote database functions along with common functions.
 - The completed project was successfully delivered to Wangjin and officially concluded. It is currently deployed on a government legal affairs department platform.
 
-OPPO - User Internet Experience Prediction(2023.4--2023.5)
+OPPO - User Internet Experience Prediction (2023.4--2023.5)
 ========
 Objective: Predict user internet experience within apps based on network conditions on the user side.
 
