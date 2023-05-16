@@ -9,9 +9,12 @@ Publications
 ======
 - [ICDE 2023](https://icde2023.ics.uci.edu/) The 39th IEEE International Conference on Data Engineering
   LHMM: A Learning Enhanced HMM Model for Cellular Trajectory Map Matching
+  
   **Weijie Shi**, Jiajie Xu, Junhua Fang, Pingfu Chao, An Liu, and Xiaofang Zhou
-  [PDF](https://shiweijiezero.github.io/weijie.github.io/files/LHMM.pdf)
-  [Source Code](https://github.com/shiweijiezero/LHMM)
+  
+  [Download PDF](https://shiweijiezero.github.io/weijie.github.io/files/LHMM.pdf)
+  
+  [Lookup Source Code](https://github.com/shiweijiezero/LHMM)
 
 The brief description of this paper is as follows:
 As shown in figure 1, **map-matching** is a problem to align recorded location data to a digital map. It has been well studied to map GPS data collected from vehicles to paths in a road network. The problem of **Cellular Trajectory Map-Matching (CTMM)** is a new problem that deals with trajectories of cellular-based positioning data. It has a wide range of applications, for example, for telecommunication companies to understand and predict traffic information based on telecom tokens obtained from vehicles. CTMM is a significantly more challenging task that faces much **lower data precision and higher positioning errors**.

@@ -10,7 +10,7 @@ redirect_from:
 
 Here is Weijie Shi (Jason, 史伟杰).
 
-I am a second year postgraduate in **Computer Science and Technology** at Soochow University (Suzhou, China). I am extremely fortunate to be advised by [Jiajie Xu](http://web.suda.edu.cn/xujj/). And my GPA is 3.8/4.0.
+I am a second year postgraduate in **Computer Science and Technology** at Soochow University (Suzhou, China) with GPA 3.8/4.0. I am extremely fortunate to be advised by [Jiajie Xu](http://web.suda.edu.cn/xujj/).
 
 Research Interests
 ======
@@ -23,5 +23,6 @@ Personal Skills
 I understand and apply mainstream deep learning methods (Transformer, Diffusion, RL, GAN, VAE, CNN, RNN, GCN), integrated learning frameworks (XGboost, Catboost, LightGBM), and tools (Neo4j, Pytorch, Scala, Spark and Docker). I have good engineering skills and scientific research intuition. 
 
 What'more, I also skilled of feature engineering techniques, has participated in the Tianchi competition and achieved a ranking of 6/670. 
+
 In Huawei's road network matching project for cellular trajectories with high positioning, I achieved engineering and improved matching accuracy, and ultimately completed the project and applied it to a certain mobile operator.
 
