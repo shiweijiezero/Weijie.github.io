@@ -28,7 +28,7 @@ In my work on Huawei's road network matching project, I effectively managed map-
 
 Academic Publications & Projects 
 ======
-You could clink the <Publications> or <Projects> buttons in the top-bar to turn to the page of Academic Publications.
+You could clink the **\<Publications\>** or **\<Projects\>** buttons in the top-bar to turn to the page of Academic Publications.
 
 
 Awards
