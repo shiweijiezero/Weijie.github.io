@@ -26,6 +26,11 @@ Moreover, I excel in feature engineering techniques. My proficiency in this area
 
 In my work on Huawei's road network matching project, I effectively managed map-matching for high-positioning cellular trajectories. My contributions led to significant improvements in matching accuracy. This project was ultimately completed successfully and implemented by a notable mobile operator. I take pride in my capability to drive projects from conception through to application.
 
+Academic Publications & Projects 
+======
+You could clink the <Publications> or <Projects> buttons in the top-bar to turn to the page of Academic Publications.
+
+
 Awards
 ===========
 - Tianchi Competition, 6nd place out of 617 (CAAI-BDSC2023 Social Graph Link Prediction Task 1: Small Sample Scenario Link Prediction), May 2023
