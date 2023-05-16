@@ -28,7 +28,7 @@ In my work on Huawei's road network matching project, I effectively managed map-
 
 Academic Publications & Projects 
 ======
-You could clink [Academic Publications](({{site.url}}/publications)) or [Projects](({{site.url}}/projects)) to turn to the page of Academic Publications or Projects.
+You could clink [Academic Publications](/publications)) or [Projects](/projects)) to turn to the page of Academic Publications or Projects.
 
 
 Awards
