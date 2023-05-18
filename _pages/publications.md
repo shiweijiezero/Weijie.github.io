@@ -13,7 +13,7 @@ Scholarly Contributions
   
   **Weijie Shi**, Jiajie Xu, Junhua Fang, Pingfu Chao, An Liu, and Xiaofang Zhou
 
-  The brief description of this paper in [Here]({{site.url}}/publications/LHMM)
+  The brief description of this paper in [Here]({{site.url}}/pub/LHMM)
   
   [Download PDF]({{site.url}}/files/LHMM.pdf) 
   
