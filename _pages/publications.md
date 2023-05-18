@@ -12,10 +12,14 @@ Scholarly Contributions
   "LHMM: A Learning Enhanced HMM Model for Cellular Trajectory Map Matching"
   
   **Weijie Shi**, Jiajie Xu, Junhua Fang, Pingfu Chao, An Liu, and Xiaofang Zhou
+
+  The brief description of this paper in [Here]({{site.url}}/publication/LHMM)
   
   [Download PDF]({{site.url}}/files/LHMM.pdf) 
   
   [Access Source Code](https://github.com/shiweijiezero/LHMM)
+  
+
 
 - 专利、软著
   

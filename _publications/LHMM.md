@@ -5,11 +5,9 @@ permalink: /publication/LHMM
 date: 2023-02-01
 paperurl: '{{site.url}}/files/LHMM.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-The brief description of this paper in [Here]({{site.url}}/publication/LHMM)
+
 
 As shown in figure 1, **map-matching** is a problem to align recorded location data to a digital map. It has been well studied to map GPS data collected from vehicles to paths in a road network. The problem of **Cellular Trajectory Map-Matching (CTMM)** is a new problem that deals with trajectories of cellular-based positioning data. It has a wide range of applications, for example, for telecommunication companies to understand and predict traffic information based on telecom tokens obtained from vehicles. CTMM is a significantly more challenging task that faces much **lower data precision and higher positioning errors**.
 
