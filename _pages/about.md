@@ -34,11 +34,16 @@ You could clink [Academic Publications](https://shiweijiezero.github.io/weijie.g
 Awards
 ===========
 - Tianchi Competition, 6nd place out of 617 (CAAI-BDSC2023 Social Graph Link Prediction Task 1: Small Sample Scenario Link Prediction), May 2023
+  [Competition Link](https://tianchi.aliyun.com/competition/entrance/532073/introduction)
 
 - Tianchi Competition, 139th out of 3493 (Imagine Computing Innovation Technology Competition Track 1: Edge Cloud Content Distribution Network Customer Experience Prediction Algorithm), November 2022
+  [Competition Link](https://tianchi.aliyun.com/competition/entrance/532030/introduction)
+  [Certification](https://shiweijiezero.github.io/weijie.github.io/files/阿里天池用户体验预测证书.pdf)
 
 - Lanqiao Cup, Jiangsu Province First Prize, August 2020
 
 - National Computer Design Competition, Second Prize, May 2020
+  [Certification]({{site.url}}/files/中国计算机设计大赛二等奖.jpg)
 
 - American College Student Mathematical Modeling Competition, Meritorious Winner, March 2020
+  [Certification]({{site.url}}/files/数学建模美赛M奖.pdf)
