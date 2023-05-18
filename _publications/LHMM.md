@@ -2,7 +2,7 @@
 title: "LHMM: A Learning Enhanced HMM Model for Cellular Trajectory Map Matching"
 collection: publications
 permalink: /publications/LHMM
-date: 2023-02-01
+date: 2023-05-19
 paperurl: '{{site.url}}/files/LHMM.pdf'
 ---
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
