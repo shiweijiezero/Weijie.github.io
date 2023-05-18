@@ -1,7 +1,7 @@
 ---
 title: "LHMM: A Learning Enhanced HMM Model for Cellular Trajectory Map Matching"
 collection: publications
-permalink: /publication/LHMM
+permalink: /publications/LHMM
 date: 2023-02-01
 paperurl: '{{site.url}}/files/LHMM.pdf'
 ---
