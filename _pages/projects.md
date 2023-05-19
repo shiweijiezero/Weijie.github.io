@@ -5,16 +5,19 @@ permalink: /projects/
 author_profile: true
 ---
 
-Huawei - Road Network Matching Project for High-Noise Signaling Trajectories (2020.5--2020.11)
+Huawei - Map-Matching Project for Cellular Trajectories with High-Positioning Errors (2020.5--2020.11)
 ==========
-Objective: Align high-noise signaling trajectories to the road network to identify the routes traveled by users.
+Objective: Aligning high-noise cellular trajectories to the road network to recovery the routes traveled by users.
 
-- Replicated a road network matching algorithm based on the Hidden Markov Model (HMM) using Python.
+- Reproduce a map-matching algorithm based on the Hidden Markov Model (HMM) using Python.
 - Migrated the code to the Scala+Spark big data platform to ensure scalability.
 - Developed a custom visualization frontend for road network matching and adjusted parameters based on experimental results.
 - Innovated a detour detection algorithm and integrated it into the existing HMM algorithm.
 - Enhanced the HMM-based road network matching algorithm using machine learning techniques.
 - The finished project was successfully delivered to Huawei and has been deployed on a mobile application platform, where it now offers road network matching services.
+
+In my work on Huawei's map-matching project, I effectively managed map-matching for high-positioning cellular trajectories. My contributions led to significant improvements in matching accuracy. This project was ultimately completed successfully and implemented by a notable mobile operator. I take pride in my capability to drive projects from conception through to application.
+
 
 Wangjin - Big Data Query Platform (2021.1--2021.4)
 ========
