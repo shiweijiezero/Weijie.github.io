@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Here is Weijie Shi (Jason, 史伟杰).
+Here is Weijie Shi (Jason Haggard).
 
 I am a second year postgraduate in **Computer Science and Technology** at Soochow University (Suzhou, China) with GPA 3.8/4.0. I am extremely fortunate to be advised by [Jiajie Xu](http://web.suda.edu.cn/xujj/).
 
