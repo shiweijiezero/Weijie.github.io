@@ -3,6 +3,7 @@ layout: archive
 collection: projects
 permalink: /projects/mapmatching
 author_profile: true
+date: 2023-05-19
 ---
 
 Available Resources: [Project Proposal]({{site.url}}/files/基于信令轨迹的路网匹配项目方案.pdf) ,[PPT Link]({{site.url}}/files/ICDE-camera.pdf)
