@@ -17,7 +17,7 @@ Objective: Aligning high-noise cellular trajectories to the road network to reco
 - The finished project was successfully delivered to Huawei and has been deployed on a mobile application platform, where it now offers road network matching services.
 
 In my work on Huawei's map-matching project, I effectively managed map-matching for high-positioning cellular trajectories. My contributions led to significant improvements in matching accuracy. This project was ultimately completed successfully and implemented by a notable mobile operator. I take pride in my capability to drive projects from conception through to application.
-
+[More specific introduction]({{site.url}}/proj/mapmatching)
 
 Wangjin - Big Data Query Platform (2021.1--2021.4)
 ========
