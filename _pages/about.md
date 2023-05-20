@@ -62,7 +62,7 @@ You could clink [Projects](https://shiweijiezero.github.io/weijie.github.io/proj
 
 Awards
 ===========
-- Tianchi Competition, 6nd place out of 617 (CAAI-BDSC2023 Social Graph Link Prediction Task 1: Small Sample Scenario Link Prediction), May 2023
+- Tianchi Competition, 5nd place out of 670 (CAAI-BDSC2023 Social Graph Link Prediction Task 1: Small Sample Scenario Link Prediction), May 2023
   [Competition Link](https://tianchi.aliyun.com/competition/entrance/532073/introduction)
 
 - Tianchi Competition, 139th out of 3493 (Imagine Computing Innovation Technology Competition Track 1: Edge Cloud Content Distribution Network Customer Experience Prediction Algorithm), November 2022
