@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "proj_mapmatching"
-permalink: /projs/mapmatching
+collection: projects
+permalink: /projects/mapmatching
 author_profile: true
 ---
 
