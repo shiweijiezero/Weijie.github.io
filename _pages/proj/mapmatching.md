@@ -5,6 +5,8 @@ permalink: /projs/mapmatching
 author_profile: true
 ---
 
+Available Resources: [Project Proposal]({{site.url}}/files/基于信令轨迹的路网匹配项目方案.pdf) ,[PPT Link]({{site.url}}/files/ICDE-camera.pdf)
+
 # Step1:
 
 I used python to reproduce the SOTA HMM-based map-matching algorithm for cellular trajectories.
