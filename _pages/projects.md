@@ -11,10 +11,10 @@ Objective: Aligning high-noise cellular trajectories to the road network to reco
 
 - Reproduce a map-matching algorithm based on the Hidden Markov Model (HMM) using Python.
 - Migrated the code to the Scala+Spark big data platform to ensure scalability.
-- Developed a custom visualization frontend for road network matching and adjusted parameters based on experimental results.
+- Developed a custom visualization frontend for map-matching and adjusted parameters based on experimental results.
 - Innovated a detour detection algorithm and integrated it into the existing HMM algorithm.
-- Enhanced the HMM-based road network matching algorithm using machine learning techniques.
-- The finished project was successfully delivered to Huawei and has been deployed on a mobile application platform, where it now offers road network matching services.
+- Enhanced the HMM-based map-matching algorithm using machine learning techniques.
+- The finished project was successfully delivered to Huawei and has been deployed on a mobile carrier's platform.
 
 In my work on Huawei's map-matching project, I effectively managed map-matching for high-positioning cellular trajectories. My contributions led to significant improvements in matching accuracy. This project was ultimately completed successfully and implemented by a notable mobile operator. I take pride in my capability to drive projects from conception through to application.
 
