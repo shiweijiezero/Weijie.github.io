@@ -14,7 +14,7 @@ I am a second year postgraduate in **Computer Science and Technology** at Soocho
 
 Research Interests
 ======
-**Key words: machine learning on applications, spatial and temporal data, LLM, knowledge extraction** 
+**Key words: spatial and temporal data, AIGC, knowledge graph, Multimodal** 
 
 My previous research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Traffic System** (such as map-matching, trajectory similarity computation). In a word, advanced technologies like ML and Traffic System positively influence the life of everybody (e.g. security tracking, traffic management, etc.).
 
