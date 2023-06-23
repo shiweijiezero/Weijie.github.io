@@ -22,3 +22,9 @@ main:
 #    url: /markdown/
   - title: "Projects"
     url: /projects/
+
+  - title: "Blog"
+    url: "https://www.cnblogs.com/heyjjjjj/p/"
+
+  - title: "zhihu"
+    url: "https://www.zhihu.com/people/tian-qing-71-69/posts"
